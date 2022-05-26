@@ -7,7 +7,7 @@ function App() {
       <style>{'body { background-color: #071711;}'}</style>
       
       <nav class="top-menu">
-        <a class="navbar-logo" href=""><img src="logo.png"/></a>
+        <a class="navbar-logo" href=""><img alt="" src="logo.png"/></a>
         <ul class="menu-main">
           <li><a href="#features">Features</a></li>
           <li><a href="#">RoadMap</a></li>
@@ -24,17 +24,17 @@ function App() {
       model.</h4>
       <img class="img1" href="" src="images/img1.png"/>
       <a class="a1"  href="https://www.google.ru/">JOIN DISCORD</a>
-      <img class="img2" href="" src="images/img2.png"/>
-      <img class="img3" href="" src="images/img3.png"/>
-      <img class="img4" href="" src="images/img4.png"/>
-      <img class="img5" href="" src="images/img5.png"/>
-      <img class="img6" href="" src="images/img6.png"/><p/>
-      <img class="img7" href="" src="images/img7.png"/>
-      <img class="img8" href="" src="images/Arrow.png"/>
+      <img class="img2" alt="1" src="images/img2.png"/>
+      <img class="img3" alt="2" src="images/img3.png"/>
+      <img class="img4" alt="3" src="images/img4.png"/>
+      <img class="img5" alt="4" src="images/img5.png"/>
+      <img class="img6" alt="5" src="images/img6.png"/><p/>
+      <img class="img7" alt="6" src="images/img7.png"/>
+      <img class="img8" alt="7" src="images/Arrow.png"/>
       <h1 class="text3" id='features'>Features</h1>
       <div class="iconblock1">
         <div class="icon">
-          <img src="images/icon1.png"/>          
+          <img src="images/icon1.png" alt="8" />          
         </div>
       <h3>COMMUNITY-<br/>DRIVEN</h3>
       <p class="p">INSTEAD JF THE TYPICAL<br/>
@@ -48,7 +48,7 @@ function App() {
       </div>
       <div class="iconblock2">
         <div class="icon">
-          <img src="images/icon2.png"/>
+          <img src="images/icon2.png" alt="9" />
         </div>
         <h3>FAIR PRICE<br/>
         DISCOVERY</h3>
@@ -60,7 +60,7 @@ function App() {
       </div>
       <div class="iconblock3">
         <div class="icon">
-          <img src="images/icon3.png"/>
+          <img src="images/icon3.png" alt="11" />
   
         </div>
         <h3>LOW<br/>
@@ -73,7 +73,7 @@ function App() {
       </div>
       <div class="iconblock4">
         <div class="icon">
-          <img src="images/icon4.png"/>
+          <img src="images/icon4.png" alt="12" />
   
         </div>
         <h3>ENHANCING<br/>
@@ -87,7 +87,7 @@ function App() {
       </div>
       <div class="iconblock5">
         <div class="icon">
-          <img src="images/icon5.png"/>
+          <img src="images/icon5.png" alt="13" />
   
         </div>
         <h3>REVERSE<br/>
@@ -101,7 +101,7 @@ function App() {
       <h1 class="text4"><span class="color" >META-N</span> VALUE PROPOSITION</h1>
       <div class="iconblock6">
         <div class="icon">
-          <img src="images/Bidder.png"/>          
+          <img src="images/Bidder.png" alt="14" />          
         </div>
       <h3>BIDDER</h3>
       <p class="ntext">Fair price discovery of the ART determined<br/>
@@ -110,7 +110,7 @@ function App() {
       </div>
       <div class="iconblock6">
         <div class="icon1">
-          <img src="images/IPFS.png"/>          
+          <img src="images/IPFS.png" alt="15" />          
         </div>
       <h3 class="h31">IPFS</h3>
       <p class="ntext1">Storing digital collectables on-chain<br/>
@@ -118,7 +118,7 @@ function App() {
       </div>
       <div class="iconblock6">
         <div class="icon">
-          <img src="images/NFTrentals.png"/>          
+          <img src="images/NFTrentals.png" alt="16" />          
         </div>
       <h3>NFT RENTALS</h3>
       <p class="ntext">Rent digital collectibles in the secondary<br/>
@@ -126,7 +126,7 @@ function App() {
       </div>
       <div class="iconblock6">
         <div class="icon1">
-          <img src="images/Bragging.png"/>          
+          <img src="images/Bragging.png" alt="17" />          
         </div>
       <h3 class="h31">BRAGGING RIGHTS</h3>
       <p class="ntext1">Receives the bragging rights for ownership<br/>
@@ -134,7 +134,7 @@ function App() {
       </div>
       <div class="iconblock6">
         <div class="icon">
-          <img src="images/Borrowing.png"/>          
+          <img src="images/Borrowing.png" alt="18" />          
         </div>
       <h3>BORROWING ON NWTs</h3>
       <p class="ntext">Use NFTs as collateral along with crypto<br/>
@@ -147,7 +147,7 @@ function App() {
       </div>
       <div class="business1">
         <div class="icon">
-          <img src="images/Creator.png"/>          
+          <img src="images/Creator.png" alt="19" />          
         </div>
       <h3>Creator lists ART<br/>
       on Meta-N marketplace<br/>
@@ -155,7 +155,7 @@ function App() {
       </div>
       <div class="business2">
         <div class="icon">
-          <img src="images/Bidders.png"/>          
+          <img src="images/Bidders.png" alt="20" />          
         </div>
       <h3>Bidders can bid on the NFT<br/>
       during the bidding period<br/><br/></h3>
